@@ -24,7 +24,10 @@ __Check out my GitHub repository:__
 <div>
   <p>
     <a href="https://github.com/BhavanaSamudrala/finalProject">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=petGromming" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhavanaSamudralah&repo=WeCare" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/BhavanaSamudrala/petGromming">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhavanaSamudralah&repo=petGromming" alt="GitHub Stats" />
     </a>
   </p>
 </div>
