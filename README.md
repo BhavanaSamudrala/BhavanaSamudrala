@@ -25,7 +25,6 @@ Here are some ideas to get you started:
   <body>
     <table cellspacing = "20">
       <tr>
-        <td><img src="profilePicture.jpeg" alt="Bhavana's profile picture" ></td>
         <td>
           <h1>Bhavana Samudrala</h1>
         <p>
@@ -39,7 +38,6 @@ Here are some ideas to get you started:
       </td>
       </tr>
     </table>
-
     <hr>
     <h3><strong>Education </strong></h3>
     <ul>
