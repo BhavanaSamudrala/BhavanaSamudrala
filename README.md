@@ -27,7 +27,7 @@ __Check out my GitHub repository:__
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhavanaSamudrala&repo=finalProject" alt="GitHub Stats" />
       <em>A Community based application - WeCare </em>
     </a>
-    <a href="https://github.com/BhavanaSamudrala/petGroomingReact">
+    <a href="https://github.com/BhavanaSamudrala/petGroomingReact" ><em>A E-commerce website for Pets</em>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhavanaSamudrala&repo=petGroomingReact" alt="GitHub Stats" />
       <em>A E-commerce website for Pets</em>
     </a>
