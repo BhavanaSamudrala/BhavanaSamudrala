@@ -52,7 +52,6 @@ Here are some ideas to get you started:
           <th>Work</th>
         </tr>
       </thead>
-
       <tbody>
         <tr>
           <td>2020-Present</td>
@@ -71,7 +70,6 @@ Here are some ideas to get you started:
     <hr>
     <h3>Skills</h3>
     <table cellspacing="10">
-
         <td>
         <tr>
           <td>IOS development</td>
@@ -79,23 +77,19 @@ Here are some ideas to get you started:
           <td>Web development</td>
           <td>⭐⭐⭐⭐</td>
         </tr>
-
         <tr>
           <td>HTML</td>
           <td>⭐⭐⭐⭐⭐</td>
           <td>CSS</td>
           <td>⭐⭐</td>
         </tr>
-
         <tr>
           <td>Javascript</td>
           <td>⭐⭐⭐⭐</td>
           <td>NodeJS</td>
           <td>⭐⭐⭐⭐</td>
         </tr>
-
       </td>
-
     </table>
     <hr>
     <a href = "hobbies.html">My Hobbies</a>
