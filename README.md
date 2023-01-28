@@ -44,9 +44,7 @@ Here are some ideas to get you started:
       <li> abc</li>
       <li> xyz</li>
     </ul>
-
     <hr>
-
     <h3>Work Experience</h3>
     <table cellspacing = "10">
       <thead>
@@ -73,7 +71,6 @@ Here are some ideas to get you started:
     </table>
     <hr>
     <h3>Skills</h3>
-
     <table cellspacing="10">
 
         <td>
