@@ -25,9 +25,11 @@ __Check out my GitHub repository:__
   <p>
     <a href="https://github.com/BhavanaSamudrala/finalProject">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhavanaSamudrala&repo=finalProject" alt="GitHub Stats" />
+      <em>A Community based application - WeCare </em>
     </a>
     <a href="https://github.com/BhavanaSamudrala/petGroomingReact">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhavanaSamudrala&repo=petGroomingReact" alt="GitHub Stats" />
+      <em>A E-commerce website for Pets</em>
     </a>
   </p>
 </div>
@@ -40,7 +42,6 @@ __Check out my GitHub repository:__
     <b><em>Now listening to:</em></b> <br/>
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=Bhargavi-hash&cover_image=true&theme=novatorem" alt="Now Listenting to" />
   </p> -->
-  
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhavanaSamudrala" alt="GitHub Stats" /> <br/><br/>
