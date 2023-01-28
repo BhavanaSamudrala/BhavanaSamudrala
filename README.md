@@ -23,8 +23,8 @@ __Check out my GitHub repository:__
 
 <div>
   <p>
-    <a href="https://github.com/BhavanaSamudrala/finalProject.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
+    <a href="https://github.com/BhavanaSamudrala/finalProject">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=petGromming" alt="GitHub Stats" />
     </a>
   </p>
 </div>
