@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title> Bhavana's Personal Site</title>
     <link rel="stylesheet" href="css/styles.css">
   </head>
 
