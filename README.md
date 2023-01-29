@@ -22,7 +22,14 @@ I am an undergraduate Computer science and Engineering student at USASK. C, C++,
 __Check out my GitHub repository:__
 
 <div>
- 
+   <p>
+    <a href="https://github.com/BhavanaSamudrala/finalProject">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhavanaSamudrala&repo=finalProject" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/BhavanaSamudrala/petGroomingReact">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhavanaSamudrala&repo=petGroomingReact" alt="GitHub Stats" />
+    </a>
+  </p>
 </div>
 <h2>👀 My github Stats</h2>
 <div>
