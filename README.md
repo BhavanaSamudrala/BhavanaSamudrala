@@ -31,10 +31,7 @@ __Check out my GitHub repository:__
     </a>
   </p>
 </div>
-
-
 <h2>👀 My github Stats</h2>
-
 <div>
 <!--   <p align="center">
     <b><em>Now listening to:</em></b> <br/>
@@ -43,7 +40,6 @@ __Check out my GitHub repository:__
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhavanaSamudrala" alt="GitHub Stats" /> <br/><br/>
-  
 </div>
 
 ![My github status](https://github-readme-stats.vercel.app/api?username=BhavanaSamudrala&show_icons=true&include_all_commits=true)
