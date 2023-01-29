@@ -2,7 +2,7 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=BhavanaSamudrala.repoName) [![GitHub followers](https://img.shields.io/github/followers/BhavanaSamudrala.svg?style=social&label=Follow)](https://github.com/BhavanaSamudrala?tab=followers)<br/>
 
 <!--
-**Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BhavanaSamudrala/BhavanaSamudrala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
@@ -25,7 +25,7 @@ __Check out my GitHub repository:__
   <p>
     <a href="https://github.com/BhavanaSamudrala/finalProject">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhavanaSamudrala&repo=finalProject" alt="GitHub Stats" />
-      <em>A Community based application - WeCare </em>
+      <em>A Community based application-WeCare </em>
     </a>
     <a href="https://github.com/BhavanaSamudrala/petGroomingReact">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhavanaSamudrala&repo=petGroomingReact" alt="GitHub Stats" />
